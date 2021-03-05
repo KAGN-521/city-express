@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1599241132 source:d:\documentos kevin\ii ciclo 2020\paradigmas de programación\c\cityexpress\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<locale.h>
+	"Invoice.h"
+	"Files.h"
+
+1598671170 d:\documentos kevin\ii ciclo 2020\paradigmas de programación\c\cityexpress\invoice.h
+	"Reserve.h"
+
+1598555377 d:\documentos kevin\ii ciclo 2020\paradigmas de programación\c\cityexpress\reserve.h
+	"Client.h"
+
+1599240996 d:\documentos kevin\ii ciclo 2020\paradigmas de programación\c\cityexpress\client.h
+
+1599237704 source:c:\users\julian\desktop\cityexpress\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<locale.h>
+	"Invoice.h"
+	"Files.h"
+
+1598671193 c:\users\julian\desktop\cityexpress\invoice.h
+	"Reserve.h"
+
+1598557519 c:\users\julian\desktop\cityexpress\reserve.h
+	"Client.h"
+
+1598557519 c:\users\julian\desktop\cityexpress\client.h
+
+1599145136 c:\users\julian\desktop\cityexpress\files.h
+	<stdio.h>
+
+1599118207 source:c:\users\julian\desktop\paradigmas de programación\cityexpress en codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<locale.h>
+	"Invoice.h"
+	"Files.h"
+
+1598671193 c:\users\julian\desktop\paradigmas de programación\cityexpress en codeblocks\invoice.h
+	"Reserve.h"
+
+1598557519 c:\users\julian\desktop\paradigmas de programación\cityexpress en codeblocks\reserve.h
+	"Client.h"
+
+1598557519 c:\users\julian\desktop\paradigmas de programación\cityexpress en codeblocks\client.h
+
+1599118125 c:\users\julian\desktop\paradigmas de programación\cityexpress en codeblocks\files.h
+	<stdio.h>
+
+1599239477 d:\documentos kevin\ii ciclo 2020\paradigmas de programación\c\cityexpress\files.h
+	<stdio.h>
+
+1614973234 source:c:\users\home\desktop\cityexpress\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<locale.h>
+	"Invoice.h"
+	"Files.h"
+
+1614973234 c:\users\home\desktop\cityexpress\invoice.h
+	"Reserve.h"
+
+1614973234 c:\users\home\desktop\cityexpress\reserve.h
+	"Client.h"
+
+1614973234 c:\users\home\desktop\cityexpress\client.h
+
+1614973234 c:\users\home\desktop\cityexpress\files.h
+	<stdio.h>
+

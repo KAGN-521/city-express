@@ -1,0 +1,13 @@
+
+		Balance General:
+
+	Total de Habitaciones: 25
+	Habitaciones Libres: 24
+	Habitaciones ocupadas: 1
+	Adultos: 1
+	Niños: 0
+	Balance Monetario: 
+	 - Clientes 'Todo Incluido': $300,00
+	 - Clientes 'Normales': $0,00
+	 - Total: $300,00
+
